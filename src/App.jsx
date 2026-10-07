@@ -12,7 +12,6 @@ export default function App() {
       <h1>Dark Echoes</h1>
       <h2>Episodes</h2>
       <main>
-        {" "}
         <EpisodeList
           onSelectEpisode={setSelectedEpisode}
           episodes={episodes}
