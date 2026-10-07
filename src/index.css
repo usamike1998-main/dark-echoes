@@ -43,10 +43,10 @@ main {
   border-bottom: 1px solid #333;
 }
 
-.details {
+.about-episode {
   display: flex;
   flex-direction: column;
-  gap: 1ch;
+  gap: 1.5ch;
 }
 
 button {
